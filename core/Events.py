@@ -1,10 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-@Created on : 2022/4/22 22:02
-@Author: Ldonh
-@Des: fastapi事件监听
-"""
-
 from typing import Callable
 from fastapi import FastAPI
 

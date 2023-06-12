@@ -1,5 +1,3 @@
-
-
 import time
 from starlette.datastructures import MutableHeaders
 from starlette.types import ASGIApp, Receive, Scope, Send, Message
